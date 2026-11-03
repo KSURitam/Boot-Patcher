@@ -13,7 +13,7 @@
 
 ## Download
 
-** [⬇ Download Boot Patcher APK]() **
+** [⬇ Download Boot Patcher APK](https://github.com/KSURitam/Boot-Patcher/releases/tag/Apk) **
 
 *Tap the button above to start the download. Use the VirusTotal report in the Security section to check the file first.*
 
